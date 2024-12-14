@@ -116,7 +116,7 @@ Além das funcionalidades principais, você pode adicionar novas ideias ao proje
 
 ## 🌟 Agradecimentos
 
-Agradecimentos à [DIO](https://www.dio.me) por proporcionar este desafio incrível e à [PokéAPI](https://pokeapi.co/) por fornecer os dados dos Pokémon! 🎮✨
+Agradecimentos à [DIO](https://www.dio.me) por proporcionar este desafio incrível, ao criador do projeto [Renan JP](https://github.com/digitalinnovationone/js-developer-pokedex/tree/main) e à [PokéAPI](https://pokeapi.co/) por fornecer os dados dos Pokémon! 🎮✨
 
 --- 
 
