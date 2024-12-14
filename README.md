@@ -30,8 +30,8 @@ Ao longo do desafio, você irá:
    - Dados detalhados incluem:
      - Tipos (e.g., fogo, água, planta).
      - Habilidades (abilities).
-     - Estatísticas base (base stats).
-     - Peso e altura.
+    
+
 
 3. **Integração com a API Pokémon**:
    - Consumo de dados diretamente da [PokéAPI](https://pokeapi.co/).
@@ -40,6 +40,14 @@ Ao longo do desafio, você irá:
 4. **Armazenamento de Código e Colaboração**:
    - Todo o código versionado no GitHub, com commits organizados e mensagens claras.
    - Utilização de branches para desenvolvimento de novas funcionalidades.
+
+---
+
+## 🛠️ Imagens
+![Screenshot from 2024-12-14 20-30-42](https://github.com/user-attachments/assets/f02e1cb6-4312-45da-8f13-45ca0a8de8b1)
+![Screenshot from 2024-12-14 20-30-23](https://github.com/user-attachments/assets/a0eb70ca-2036-4430-9d05-9946fa08fe53)
+![Screenshot from 2024-12-14 20-29-58](https://github.com/user-attachments/assets/66c0d629-8988-496f-b5e0-f91491577c68)
+
 
 ---
 
